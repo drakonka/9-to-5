@@ -10,3 +10,5 @@ You're just a regular guy, going to work in the morning.
 
 * A and D to move
 * Click to interact with objects. 
+
+The engine used to make 9 to 5 was ImpactJS and was not included in the repository as it is a commercial engine.
